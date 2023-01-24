@@ -1,5 +1,5 @@
 # kNN_Model
-In this code, we explore the data set of senses adults where the target and the dependent
+In this code, we explore the data set of adults where the target and the dependent
 variable is the income and we will develop a productive model using the kNN, K nearest
 neighbor algorithm to predict whether a person from the given data set or demographics has a
 salary of more or less than 50K.
